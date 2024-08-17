@@ -29,3 +29,6 @@ font-style: bold;
 table tr:hover{
     background-color: #999999;
 }
+.current{
+    background-color: #f8f828;
+}
